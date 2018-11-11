@@ -1,0 +1,7 @@
+{
+    "disableAutoUpdate": false,
+    "options": {
+        "niceName": "Superleap Callout"
+    },
+    "servers": ["https://raw.githubusercontent.com/HakuryuuDom/superleap-callout/master/"]
+}
